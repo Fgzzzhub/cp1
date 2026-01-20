@@ -6,7 +6,7 @@ define('DB_NAME', 'tegal_portal');
 define('DB_USER', 'root');
 define('DB_PASS', 'Sriwedari06');
 
-define('BASE_URL', 'http://localhost:8000/checkpoint%201/');
+define('BASE_URL', 'http://localhost:8000/');
 
 define('UPLOAD_DIR', dirname(__DIR__, 2) . '/assets/uploads');
 define('MAX_UPLOAD_SIZE', 2 * 1024 * 1024);
